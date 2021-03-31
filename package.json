@@ -2,7 +2,7 @@
   "name": "jest-another-rpg",
   "version": "1.0.0",
   "description": "",
-  "main": "text.js", 
+  "main": "text.js",
   "scripts": {
     "test": "jest"
   },
